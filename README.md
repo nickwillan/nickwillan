@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5603AQGrqBne5QE3OQ/profile-displayphoto-shrink_800_800/0/1699365728501?e=1714003200&v=beta&t=oTUVRjomEz1v2zuUM2zqc9jqyJTIs1FyvRwVJaWvx10"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nickwillan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <h1 align="center">Welcome to my GitHub Profile!</h1>
